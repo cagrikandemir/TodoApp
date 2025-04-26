@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagri\\source\\repos\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|c:\\users\\cagri\\source\\repos\\todoapp\\todoapp\\src\\components\\todowrapper.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|solutionrelative:todoapp\\src\\components\\todowrapper.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|c:\\users\\cagri\\source\\repos\\todoapp\\todoapp\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|solutionrelative:todoapp\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|c:\\users\\cagri\\source\\repos\\todoapp\\todoapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|solutionrelative:todoapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|c:\\users\\cagri\\source\\repos\\todoapp\\todoapp\\src\\components\\todo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A16B75FB-D240-AB42-428C-78EDE46D9550}|TodoApp\\todoapp.esproj|solutionrelative:todoapp\\src\\components\\todo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoForm.jsx",
+              "DocumentMoniker": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\TodoForm.jsx",
+              "RelativeDocumentMoniker": "todoapp\\src\\components\\TodoForm.jsx",
+              "ToolTip": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\TodoForm.jsx",
+              "RelativeToolTip": "todoapp\\src\\components\\TodoForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-26T20:50:05.847Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoWrapper.jsx",
+              "DocumentMoniker": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\TodoWrapper.jsx",
+              "RelativeDocumentMoniker": "todoapp\\src\\components\\TodoWrapper.jsx",
+              "ToolTip": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\TodoWrapper.jsx",
+              "RelativeToolTip": "todoapp\\src\\components\\TodoWrapper.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-26T20:58:56.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\main.jsx",
+              "RelativeDocumentMoniker": "todoapp\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\main.jsx",
+              "RelativeToolTip": "todoapp\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-26T20:58:16.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.jsx",
+              "DocumentMoniker": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\Todo.jsx",
+              "RelativeDocumentMoniker": "todoapp\\src\\components\\Todo.jsx",
+              "ToolTip": "C:\\Users\\cagri\\source\\repos\\TodoApp\\todoapp\\src\\components\\Todo.jsx",
+              "RelativeToolTip": "todoapp\\src\\components\\Todo.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-26T20:48:48.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

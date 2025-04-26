@@ -1,0 +1,1 @@
+C:\Users\cagri\source\repos\TodoApp\TodoApp\obj\Debug\todoapp.esproj.CoreCompileInputs.cache
